@@ -1,0 +1,12 @@
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# uv and Python environment files
+.python-version
+.venv/
+/venv/
+__pycache__/
+*.pyc
+
+# uv lock file 
+uv.lock

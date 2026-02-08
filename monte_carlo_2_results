@@ -1,0 +1,14 @@
+1st simulation:
+Stockout ≈ 0.2%
+
+Avg inventory ≈ 3500+
+
+Very safe, very wasteful
+
+2nd simulation:
+INITIAL_INVENTORY = 600 REORDER_POINT = 379, ORDER_QUANTITY = 300
+Stockout Probability : 3.4%
+Average Inventory    : 2449.81
+-- reduced average inventory by ~30%
+--stockout risk increased, but still reasonable
+

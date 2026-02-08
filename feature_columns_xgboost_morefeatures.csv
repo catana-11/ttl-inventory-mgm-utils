@@ -1,0 +1,14 @@
+feature_name
+lag_1
+lag_7
+lag_14
+lag_30
+roll_mean_7
+roll_std_7
+Month
+DayOfWeek
+Supplier_Lead_Time_Days
+Promotion_Flag
+Region_North
+Region_South
+Region_West

@@ -1,2 +1,2 @@
-lag_1,lag_7,lag_14,lag_30,roll_mean_7,roll_std_7,Month,DayOfWeek,Supplier_Lead_Time_Days,Promotion_Flag,Region_North,Region_South,Region_West
-10.0,11.0,16.0,18.0,21.285714285714285,7.2506157373996585,12,0,4,0,False,False,False
+lag_1,lag_2,lag_3,lag_5,lag_7,lag_14,lag_30,roll_mean_7,roll_std_7,roll_mean_14,roll_std_14,trend,Month,DayOfWeek,Supplier_Lead_Time_Days,Promotion_Flag,promo_rolling,Region_North,Region_South,Region_West
+10.0,23.0,14.0,26.0,11.0,16.0,18.0,21.285714285714285,7.2506157373996585,20.071428571428573,6.293638860777673,1.2142857142857117,12,0,4,0,0.2857142857142857,False,False,False
